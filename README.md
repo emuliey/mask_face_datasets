@@ -13,13 +13,13 @@ train dataset
 test dataset
 
 lfw_masked
-链接：https://pan.baidu.com/s/1DMW2_aGsHQPU6VoXVgxFxg 
-提取码：qa7o
+link：https://pan.baidu.com/s/1DMW2_aGsHQPU6VoXVgxFxg 
+Extraction code：qa7o
 
 CASIA-FaceV5_masked
-链接：https://pan.baidu.com/s/1AtzCTNpKWEJzLorfvdE8zA 
-提取码：d8gf
+link：https://pan.baidu.com/s/1AtzCTNpKWEJzLorfvdE8zA 
+Extraction code：d8gf
 
 mfr2
-链接：https://pan.baidu.com/s/1x1HFnYA2yvWMWAJdG3t6mw 
-提取码：4orm
+link：https://pan.baidu.com/s/1x1HFnYA2yvWMWAJdG3t6mw 
+Extraction code：4orm
