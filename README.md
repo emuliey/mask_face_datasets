@@ -20,6 +20,3 @@ CASIA-FaceV5_masked
 link：https://pan.baidu.com/s/1AtzCTNpKWEJzLorfvdE8zA 
 Extraction code：d8gf
 
-mfr2
-link：https://pan.baidu.com/s/1x1HFnYA2yvWMWAJdG3t6mw 
-Extraction code：4orm
