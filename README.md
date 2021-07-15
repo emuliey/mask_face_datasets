@@ -7,8 +7,9 @@ Here are our datasets for training and testing:
 
 train dataset
 
-
-
+VGG-Face2——masked
+link：https://pan.baidu.com/s/1hJ5eak6rZ00oPH4S0ad6Yg 
+Extraction code：1sjw
 
 test dataset
 
